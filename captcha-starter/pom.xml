@@ -38,7 +38,7 @@
         </dependency>
 
         <dependency>
-            <groupId>com.magichand.plugin</groupId>
+            <groupId>cn.magichand.plugin</groupId>
             <artifactId>captcha-core</artifactId>
             <version>1.0.0</version>
         </dependency>
