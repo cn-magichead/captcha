@@ -24,6 +24,11 @@
             <email>1131960938@qq.com</email>
         </developer>
     </developers>
+    <scm>
+        <connection>scm:git@github.com/cn-magichead/captcha.git</connection>
+        <developerConnection>scm:git@github.com/cn-magichead/captcha.git</developerConnection>
+        <url>https://github.com/cn-magichead/captcha.git </url>
+    </scm>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
