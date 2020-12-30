@@ -59,7 +59,7 @@
 
     <profiles>
         <profile>
-            <id>magichand-captcha</id>
+            <id>magichand</id>
             <build>
                 <plugins>
                     <!-- Source -->
@@ -108,13 +108,13 @@
             </build>
             <distributionManagement>
                 <snapshotRepository>
-                    <id>magichand-captcha</id>
+                    <id>magichand</id>
                     <url>
                         https://oss.sonatype.org/content/repositories/snapshots/
                     </url>
                 </snapshotRepository>
                 <repository>
-                    <id>magichand-captcha</id>
+                    <id>magichand</id>
                     <url>
                         https://oss.sonatype.org/service/local/staging/deploy/maven2/
                     </url>
